@@ -21,7 +21,7 @@
     "harmony-proxy": "0.0.2",
     "lodash": "^3.9.3",
     "mongodb-core": "^1.1.33",
-    "parse-mongo-url": "^1.1.0",
+    "parse-mongo-url": "^1.1.1",
     "readable-stream": "~1.1.8"
   },
   "scripts": {
